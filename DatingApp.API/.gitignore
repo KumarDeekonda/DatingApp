@@ -5,3 +5,4 @@ obj
 
 # files
 *.db
+appsettings.json
