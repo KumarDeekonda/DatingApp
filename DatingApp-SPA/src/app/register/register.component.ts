@@ -22,7 +22,7 @@ export class RegisterComponent implements OnInit {
       this.model = {};
 
     }, error => {
-      console.log('Error occured during registration');
+      console.log(error);
 
     });
 
